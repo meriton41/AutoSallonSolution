@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 242,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -40,7 +36,7 @@
               "RelativeDocumentMoniker": "AutoSallon.Infrastructure\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\W11\\source\\repos\\AutoSallonSolution\\AutoSallon.Infrastructure\\ApplicationDbContext.cs",
               "RelativeToolTip": "AutoSallon.Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T19:41:25.147Z",
               "EditorCaption": ""
